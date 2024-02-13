@@ -67,6 +67,7 @@ header .logo {
 }
 
 .content .textBox {
+    margin-top: 10px;
     font-size: 55px;
 }
 
@@ -94,7 +95,7 @@ header .logo {
 }
 
 .main-logo {
-    width: 250px;
+    width: 160px;
 }
 
 .container {
